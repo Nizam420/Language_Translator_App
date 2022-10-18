@@ -94,3 +94,8 @@ body{
     border-radius: 5px;
     background: #53f0bc;
 }
+.credit-footer{
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+}
