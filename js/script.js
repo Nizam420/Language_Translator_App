@@ -20,6 +20,8 @@ selectTag.forEach((tag, id) => {
     }
 });
 
+console.log(toText + " " + fromText);
+
 exchangeIcon.addEventListener("click", () => {
     let tempText = fromText.value;
     tempLang = selectTag[0].value;
@@ -68,3 +70,5 @@ icons.forEach(icon => {
         }
     });
 });
+
+
