@@ -10,7 +10,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #5372F0;
+    background: #385ceb;
 }
 .container{
     width: 695px;
@@ -92,11 +92,10 @@ body{
     color: #fff;
     font-size: 17px;
     border-radius: 5px;
-    background: #29c792;
+    background: #6ba3e2;
 }
 .container button:hover{
-    color: rgb(72, 57, 57);
-    background: #41eab2;
+
 }
 .credit-footer{
     margin: auto;
