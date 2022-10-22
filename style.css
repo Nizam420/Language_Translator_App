@@ -13,7 +13,7 @@ body{
     background: #5372F0;
 }
 .container{
-    width: 690px;
+    width: 695px;
     background: #fff;
     border-radius: 7px;
     padding: 30px;
@@ -32,7 +32,7 @@ body{
 
 }
 .text-input textarea{
-    height: 250px;
+    height: 255px;
     width: 100%;
     border: none;
     outline: none;
@@ -95,7 +95,7 @@ body{
     background: #29c792;
 }
 .container button:hover{
-    color: black;
+    color: rgb(72, 57, 57);
     background: #41eab2;
 }
 .credit-footer{
