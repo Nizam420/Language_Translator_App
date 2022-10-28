@@ -10,7 +10,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #385ceb;
+    background: #4d6be0;
 }
 .container{
     width: 695px;
@@ -24,11 +24,11 @@ body{
 }
 .wrapper .text-input{
     display: flex;
-    border-bottom: 1px solid #bbb;
+    border-bottom: 1px solid rgb(226, 212, 212);
 }
 .text-input .to-text{
     border-radius: 0px;
-    border: 1px solid #bbb;
+    border: 1px solid rgb(226, 204, 204);
 
 }
 .text-input textarea{
@@ -53,7 +53,7 @@ body{
 
 }
 .container .row.from .icons{
-    border-right: 1 px solid #bbb;
+    border-right: 1 px solid rgb(214, 185, 185);
     padding-right: 15px;
 }
 .container .row.to .icons{
